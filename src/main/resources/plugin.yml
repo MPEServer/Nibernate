@@ -1,0 +1,6 @@
+name: Nibernate
+main: mpes.nibernate.Nibernate
+version: "0.1"
+api: ["1.0.0"]
+author: TesLex Tech. (expexes)
+description: Nukkit port for popular java framework
